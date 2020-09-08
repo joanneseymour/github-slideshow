@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+>I never said that
+>- Confucius
 Use the left arrow to go back!
